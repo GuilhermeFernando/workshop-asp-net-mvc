@@ -108,4 +108,3 @@ D:\Projetos VIsual studio\Vendedor\VendasWebMVC\VendasWebMVC\bin\Debug\netcoreap
 D:\Projetos VIsual studio\Vendedor\VendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projetos VIsual studio\Vendedor\VendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projetos VIsual studio\Vendedor\VendasWebMVC\VendasWebMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Projetos VIsual studio\Vendedor\VendasWebMVC\VendasWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Departamento\Index.cshtml.g.cs
